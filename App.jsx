@@ -13,7 +13,7 @@ const App = () => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Firebase Push Notifications</Text>
+      <Text style={styles.text}>hello Firebase Push Notifications</Text>
     </View>
   );
 };
